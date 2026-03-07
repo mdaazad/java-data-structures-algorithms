@@ -10,5 +10,5 @@ Java implementations of linked list data structures.
 - Insert
 - Delete
 - Traverse
-- reverse
+- Reverse
 - Search
