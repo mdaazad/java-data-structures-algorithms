@@ -14,7 +14,7 @@
  *
  * @author Md Abul Kalam Azad
  */
-public class LinkedListDemo {
+public class SinglyLinkedListDemo {
 	
 	public static void main(String[] args) {
 		
